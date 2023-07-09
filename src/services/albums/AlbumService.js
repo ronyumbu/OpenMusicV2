@@ -36,7 +36,7 @@ class AlbumService {
 
         if (!resultAlbum.rows.length) {
             throw new NotFoundError('Album tidak dapat ditemukan');
-        }
+        };
 
         const querySong = {
             text: 'SELECT songs.id, songs.title, songs.performer FROM albums JOIN songs ON albums.id = songs.album_id WHERE albums.id = $1',
