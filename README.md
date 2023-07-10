@@ -46,7 +46,7 @@
         * Does your project use TypeScript? -> No.
         * Where does your code run? -> Node.
         * How would you like to define a style for your project? -> Use a popular style guide.
-        * Which style guide do you want to follow? -> (Anda bebas memilih, sebagai contoh saya pilih AirBnB).
+        * Which style guide do you want to follow? -> (Anda bebas memilih, sebagai contoh saya pilih Google).
         * What format do you want your config file to be in? -> JSON.
         * Would you like to install them now? -> Yes.
         * Which package manager do you want to use? -> npm.
