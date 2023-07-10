@@ -43,11 +43,12 @@
         * How would you like to use ESLint? -> To check, find problems, and enforce code style.
         * What type of modules does your project use? -> CommonJS (require/exports).
         * Which framework did you use? -> None of these. 
-        * Does your project use TypeScript? -> N.
+        * Does your project use TypeScript? -> No.
         * Where does your code run? -> Node.
         * How would you like to define a style for your project? -> Use a popular style guide.
         * Which style guide do you want to follow? -> (Anda bebas memilih, sebagai contoh saya pilih AirBnB).
         * What format do you want your config file to be in? -> JSON.
-        * Would you like to …… (seluruh pertanyaan selanjutnya) -> Y.
+        * Would you like to install them now? -> Yes.
+        * Which package manager do you want to use? -> npm.
     
 * **NOTE**: saya tidak menggunakan nodemon, tetapi jika teman-teman ingin menggunakannya, silahkan
