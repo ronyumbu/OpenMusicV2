@@ -15,7 +15,7 @@
 - Klik *Terminal* -> *New Terminal*
 - Ketik `npm init`
   * Setelah muncul **package name: (user)**, enter saja, jika sudah muncul pertanyaan **Is this OK? (yes)**, ketik `yes`
-- Lalu ketik `npm install`, maka **package.json** dan **package-lock.json** akan muncul
+- Lalu ketik `npm install`, maka **package.json**, **package-lock.json** dan **node_modules** akan muncul
 - Pada **package.json**, ubah bagian script menjadi seperti ini:
   ```bash
    "scripts": {
